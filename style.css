@@ -1,0 +1,14 @@
+body {
+  background-color: #060b12;
+  margin: 0 auto;
+}
+
+.header {
+  display: flex;
+  text-align: center;
+}
+
+.header-title {
+  font-family: 'Gill Sans', sans-serif;
+  text-transform: uppercase;
+}
